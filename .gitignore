@@ -1,0 +1,20 @@
+# Token Testing
+other-tokens.txt
+dead-tokens.txt
+spare-tokens.txt
+tokens.txt
+tokens/
+
+# Technical Files
+deadcord.log
+replit.nix
+.replit
+
+# Linux binary
+Deadcord
+
+# Windows binary
+Deadcord.exe
+
+# Encoded Token Profiles
+profiles.lock
