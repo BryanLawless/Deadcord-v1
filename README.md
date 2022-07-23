@@ -1,14 +1,18 @@
 <div align="center">
 
-<a href="https://github.com/GalaxzyDev">
+| 🔴 Important Notice - Deadcord Development |
+| ------------- |
+| Currently the development of Deadcord is slowing down. This project is no longer our priority, instead we are dedicating most of our time to https://github.com/FreeSource . |
+
+<a href="https://github.com/CalamityDev">
   <img src="./assets/logo.png" alt="Logo" width="105" height="95">
 </a>
 
-# 💀 Deadcord v1.4.1
+# 💀 Deadcord v1.4.2
 
 <b>😎 Read below completely before asking for support!</b>
 
-![GitHub All Releases](https://img.shields.io/github/downloads/GalaxzyDev/Deadcord/total?color=black) ![GitHub stars](https://img.shields.io/github/stars/GalaxzyDev/Deadcord?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/GalaxzyDev/Deadcord?style=social)
+![GitHub All Releases](https://img.shields.io/github/downloads/CalamityDev/Deadcord/total?color=black) ![GitHub stars](https://img.shields.io/github/stars/CalamityDev/Deadcord?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/CalamityDev/Deadcord?style=social)
 
 ☎️ **Telegram:** https://t.me/singularitylabs
   
@@ -43,7 +47,7 @@ Download the latest release from our `releases` section. Download the file to a 
 
 2. Download the latest version of Deadcord from our `releases` section.
 
-3. Download & Install our BetterDiscord plugin provided in this repo: https://github.com/GalaxzyDev/Deadcord-Client.
+3. Download & Install our BetterDiscord plugin provided in this repo: https://github.com/CalamityDev/Deadcord-Client.
 
 4. Make sure Deadcord is running in the background.
 
@@ -117,13 +121,18 @@ A: Yes, there are some alternatives to Deadcord, such as MassDmGo.
 
 ## 🔥 Roadmap
 
-See the [open issues](https://github.com/GalaxzyDev/Deadcord/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/CalamityDev/Deadcord/issues) for a list of proposed features (and known issues).
 
 ## 📜 License
 
 Distributed under the GNU AGPLv3 License. See `LICENSE` for more information. If you use any code written in the repository, and you plan to distribute it, corresponding code must be open source and under the same license.
 
 ## 📝 Changelog
+
+#### Deadcord v1.4.2
+- **[ ADDED ]** Soft quit.
+- **[ ADDED ]** Error reporting.
+- **[ IMPROVED ]** Channel importing.
 
 #### Deadcord v1.4.1
 - **[ ADDED ]** Mass invite creator.
