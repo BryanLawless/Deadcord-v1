@@ -3,13 +3,11 @@
 | 🔴 Important Notice - Deadcord Development |
 | ------------- |
 | Currently the development of Deadcord is slowing down. This project is no longer our priority, instead we are dedicating most of our time to https://github.com/FreeSource . |
-|
 
 | 🤡 Keep an eye out for scams |
 | ------------- |
 | The websites below resell Deadcord despite it being free and open source for everyone. |
 | https://www.venomworld.org |
-|
 
 <a href="https://github.com/CalamityDev">
   <img src="./assets/logo.png" alt="Logo" width="105" height="95">
