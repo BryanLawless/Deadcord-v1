@@ -1,8 +1,8 @@
 <div align="center">
 
-| 🔴 Important Notice - Deadcord Development |
+| 🔴 Deadcord will not longer be maintained |
 | ------------- |
-| Currently the development of Deadcord is slowing down. This project is no longer our priority, instead we are dedicating most of our time to https://github.com/FreeSource . |
+| I no longer have the time to be maintaining this project. No further releases or updates will be pushed. |
 
 | 🤡 Keep an eye out for scams |
 | ------------- |
@@ -19,7 +19,7 @@
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/CalamityDev/Deadcord/total?color=black) ![GitHub stars](https://img.shields.io/github/stars/CalamityDev/Deadcord?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/CalamityDev/Deadcord?style=social)
 
-☎️ **Telegram:** https://t.me/singularitylabs
+☎️ **Telegram:** ~~https://t.me/singularitylabs~~ **( No longer active )**
   
 <img src="./assets/banner.png" alt="Deadcord Banner"/>
 </div>
