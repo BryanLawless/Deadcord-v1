@@ -10,6 +10,6 @@
 
 | 🔴 Deadcord-v1 will not longer be maintained |
 | ------------- |
-| A new, experimental project has been started: [Deadcord-v2](https://github.com/BryanLawless/Deadcord-v2). This may be subject to change. |
+| A new, experimental project may be started instead. This is subject to change. |
 
 </div>
